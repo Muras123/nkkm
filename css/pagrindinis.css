@@ -7,11 +7,11 @@ p {
 	color: black;
 }
 div {
-	text-align: center;
 	background-color: white;
 	width:820px;
 	padding: 10px;
 	border: 2 px solid grey;
+	background-position: center;
 }
 h1{
 	font-family: tahoma;
